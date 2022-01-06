@@ -4,3 +4,4 @@ C:\Users\Sol\source\repos\EmailLibrary\EmailLibrary\obj\Debug\EmailLibrary.cspro
 C:\Users\Sol\source\repos\EmailLibrary\EmailLibrary\obj\Debug\EmailLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Sol\source\repos\EmailLibrary\EmailLibrary\obj\Debug\EmailLibrary.dll
 C:\Users\Sol\source\repos\EmailLibrary\EmailLibrary\obj\Debug\EmailLibrary.pdb
+C:\Users\Sol\source\repos\EmailLibrary\EmailLibrary\bin\Debug\EmailLibrary.dll.config
